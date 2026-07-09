@@ -22,6 +22,16 @@ a {
     text-decoration: none;
 }
 
+h1 {
+    font-size: 48px;
+    color: #1a202c;
+    line-height: 1.25
+}
+
+.purple {
+    color: #6415ff;
+}
+
 img {
     width: 100%;
 }
