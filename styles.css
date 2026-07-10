@@ -41,6 +41,10 @@ img {
     justify-content: space-between;
 }
 
+.container{
+    padding: 96px 0;
+}
+
 .row {
     width: 100%;
     max-width: 1200px;
@@ -133,3 +137,17 @@ nav {
 }
 
 
+/* 
+Header
+ */
+
+
+ header .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+
+ .header__description {
+    width: 40%;
+ }
